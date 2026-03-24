@@ -1,11 +1,66 @@
 # Pandas Learning Journey 🚀
 
-I started learning Pandas as part of my college syllabus and personal skill developments.
+I started learning Pandas as part of my college syllabus and personal skill development. This repository contains my daily progress, practice notebooks, and real dataset analysis.
+
+---
+
+## 📅 Learning Progress
+
+* Day 1: Pandas Basics (Series, DataFrame)
+* Day 2: DataFrame Operations (loc, iloc, filtering, sorting)
+* Day 3: Data Cleaning (null values, fillna, dropna)
+* Day 4: File Handling (CSV read/write)
+* Day 5: GroupBy & Data Analysis
+* Day 6: Data Visualization (Matplotlib)
+
+---
+
+## 📂 Project Structure
+
+pandas-learning-journey/
+│
+├── Day1_Basics/
+├── Day2_DataFrame/
+├── Day3_DataCleaning/
+├── Day4_FileHandling/
+├── Day5_Analysis/
+├── Day6_Visualization/
+
+---
 
 ## 🛠 Skills Learned
-- Data analysis
-- Data cleaning
-- Working with real datasets
+
+* Data analysis using Pandas
+* Data cleaning techniques
+* Working with real datasets (CSV)
+* Data visualization using Matplotlib
+* GroupBy and aggregation
+
+---
+
+## 📊 Datasets Used
+
+* Student dataset (custom CSV)
+* Practice datasets for learning Pandas
+
+---
 
 ## 🎯 Goal
-To become strong in data analysis using Python & Pandas# pandas-learning-journey.
+
+To become strong in Data Analysis using Python & Pandas and build real-world projects.
+
+---
+
+## 🚀 Future Plans
+
+* Mini Project (Real dataset analysis)
+* Advanced Pandas
+* Data Visualization with Seaborn
+* Machine Learning basics
+
+---
+
+## 🔗 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/jay-bhuva-68673236b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+  
