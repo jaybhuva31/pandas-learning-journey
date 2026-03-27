@@ -12,6 +12,7 @@ I started learning Pandas as part of my college syllabus and personal skill deve
 * Day 4: File Handling (CSV read/write)
 * Day 5: GroupBy & Data Analysis
 * Day 6: Data Visualization (Matplotlib)
+* Day 7: Data Transformation
 
 ---
 
