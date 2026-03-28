@@ -14,6 +14,7 @@ I started learning Pandas as part of my college syllabus and personal skill deve
 * Day 6: Data Visualization (Matplotlib)
 * Day 7: Data Transformation
 * Day 8: Data Exploration and Statistical Analysis
+* Day 9: Qualitative vs Quantitative Data (Crosstab Analysis)
 
 ---
 
@@ -27,6 +28,11 @@ pandas-learning-journey/
 ├── Day4_FileHandling/
 ├── Day5_Analysis/
 ├── Day6_Visualization/
+├── Day7_Transformation/
+├── Day8_Exploration/
+├── Day9_Crosstab/
+
+
 
 ---
 
