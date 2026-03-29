@@ -15,6 +15,7 @@ I started learning Pandas as part of my college syllabus and personal skill deve
 * Day 7: Data Transformation
 * Day 8: Data Exploration and Statistical Analysis
 * Day 9: Qualitative vs Quantitative Data (Crosstab Analysis)
+* Day 10: Outlier Detection and Removal using IQR and Z-Score
 
 ---
 
@@ -31,7 +32,7 @@ pandas-learning-journey/
 ├── Day7_Transformation/
 ├── Day8_Exploration/
 ├── Day9_Crosstab/
-
+├── Day10_Outliers/
 
 
 ---
