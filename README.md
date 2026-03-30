@@ -16,6 +16,7 @@ I started learning Pandas as part of my college syllabus and personal skill deve
 * Day 8: Data Exploration and Statistical Analysis
 * Day 9: Qualitative vs Quantitative Data (Crosstab Analysis)
 * Day 10: Outlier Detection and Removal using IQR and Z-Score
+* Day 11: Interactive Visualization using Plotly
 
 ---
 
