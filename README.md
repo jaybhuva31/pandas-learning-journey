@@ -33,6 +33,9 @@ pandas-learning-journey/
 ├── Day8_Exploration/
 ├── Day9_Crosstab/
 ├── Day10_Outliers/
+├── Day11_Plotly/
+
+
 
 
 ---
