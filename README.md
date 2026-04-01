@@ -18,6 +18,7 @@ I started learning Pandas as part of my college syllabus and personal skill deve
 * Day 10: Outlier Detection and Removal using IQR and Z-Score
 * Day 11: Interactive Visualization using Plotly
 * Day 12: Introduction to Dash (First Dashboard)
+* Day 13: Graph Visualization using NetworkX
 
 ---
 
