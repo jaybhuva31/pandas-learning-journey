@@ -22,6 +22,7 @@ I started learning Pandas as part of my college syllabus and personal skill deve
 * Day 14: Machine Learning Basics (Regression vs Classification)
 * Day 15: Data Preprocessing & Feature Engineering
 * Day 16: Train-Test Split and Cross Validation
+* Day 17: Simple and Multiple Linear Regression
   
 
 ---
