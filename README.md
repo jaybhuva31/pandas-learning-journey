@@ -49,6 +49,7 @@ pandas-learning-journey/
 ├── Day15_Feature_Engineering/
 ├── Day16_Model_Evaluation/
 ├── Day17_Linear_Regression/
+├── Day18_Polynomial_Regression/
 
 
 
