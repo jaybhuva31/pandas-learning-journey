@@ -24,6 +24,7 @@ I started learning Pandas as part of my college syllabus and personal skill deve
 * Day 16: Train-Test Split and Cross Validation
 * Day 17: Simple and Multiple Linear Regression
 * Day 18: Polynomial Regression (Non-linear Model)
+* Day 19: Model Evaluation using MAE, MSE and R2 Score
   
 
 ---
