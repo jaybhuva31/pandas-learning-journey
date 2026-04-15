@@ -51,6 +51,7 @@ pandas-learning-journey/
 ├── Day16_Model_Evaluation/
 ├── Day17_Linear_Regression/
 ├── Day18_Polynomial_Regression/
+├── Day19_Model_Evaluation/
 
 
 
