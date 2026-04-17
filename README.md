@@ -26,6 +26,7 @@ I started learning Pandas as part of my college syllabus and personal skill deve
 * Day 18: Polynomial Regression (Non-linear Model)
 * Day 19: Model Evaluation using MAE, MSE and R2 Score
 * Day 20: kNN and Decision Tree (Entropy)
+* Day 21: Random Forest and SVM Models
   
 
 ---
