@@ -28,6 +28,7 @@ I started learning Pandas as part of my college syllabus and personal skill deve
 * Day 20: kNN and Decision Tree (Entropy)
 * Day 21: Random Forest and SVM Models
 * Day 22: Confusion Matrix and Classification Metrics
+* Day 23: Neural Networks and Activation Functions
   
 
 ---
