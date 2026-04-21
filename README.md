@@ -61,6 +61,7 @@ pandas-learning-journey/
 ├── Day21_Advanced_Models/
 ├── Day22_Classification_Evaluation/
 ├── Day23_Deep_Learning/
+├── Day24_CNN/
 
 
 
