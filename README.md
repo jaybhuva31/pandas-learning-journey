@@ -30,6 +30,7 @@ I started learning Pandas as part of my college syllabus and personal skill deve
 * Day 22: Confusion Matrix and Classification Metrics
 * Day 23: Neural Networks and Activation Functions
 * Day 24: CNN Basics (Kernel, Convolution, Pooling, Dropout)
+* Day 25: Image Processing Concepts without Dataset
   
 
 ---
