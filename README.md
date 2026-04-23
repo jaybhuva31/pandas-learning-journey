@@ -63,6 +63,7 @@ pandas-learning-journey/
 ├── Day22_Classification_Evaluation/
 ├── Day23_Deep_Learning/
 ├── Day24_CNN/
+├── Day25_Image_Concepts/
 
 
 
